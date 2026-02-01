@@ -1,0 +1,9 @@
+{
+  "name": "tennis-ai-coach",
+  "version": "1.0.0",
+  "description": "AI-powered tennis coaching app",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
